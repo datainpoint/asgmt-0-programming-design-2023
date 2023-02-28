@@ -8,7 +8,7 @@ def subtract(x: int, y: int) -> int:
     1
     """
     ### BEGIN SOLUTION
-    return x - y
+    
     ### END SOLUTION
 
 def convert_celsius_to_fahrenheit(x: int) -> float:
@@ -19,7 +19,7 @@ def convert_celsius_to_fahrenheit(x: int) -> float:
     212.0
     """
     ### BEGIN SOLUTION
-    return x * 9/5 + 32
+    
     ### END SOLUTION
 
 def sort_a_list(x: list) -> list:
@@ -32,5 +32,5 @@ def sort_a_list(x: list) -> list:
     [7, 11, 13]
     """
     ### BEGIN SOLUTION
-    return sorted(x)
+    
     ### END SOLUTION
